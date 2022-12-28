@@ -1,5 +1,8 @@
-# Semantic Image Synthesis Manipulation for Stability Problem using Generative
-Adversarial Networks (ULBPGAN)
+# Semantic Image Synthesis Manipulation for Stability Problem using Generative Adversarial Networks (ULBPGAN)
+
+&nbsp;
+
+<img src='assets\framework.png' align="left">  
 
 &nbsp;
 
