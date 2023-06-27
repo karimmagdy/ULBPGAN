@@ -11,7 +11,6 @@
 
 &nbsp;
 
-### [Paper](https://github.com/karimmagdy/ULBPGAN)
 
 [Karim Magdy](https://scholar.google.com/citations?user=v4wnV7QAAAAJ), [Ghada Khoriba](https://scholar.google.com/citations?hl=en&user=jwTBsIIAAAAJ), [Hala Abbas](https://scholar.google.com/citations?hl=en&user=s8EB22cAAAAJ)
 
